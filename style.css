@@ -1,0 +1,35 @@
+h1{
+    color: darkgreen;
+}
+
+
+
+section>img{
+
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 50px;
+}
+
+.api{
+    border-top: 5px solid white;
+    
+}
+
+.api>img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 250px;
+    height: 250px;
+
+}
+
+h6{
+    color: darkgreen;
+    font-style: normal;
+    font-weight: 300;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
