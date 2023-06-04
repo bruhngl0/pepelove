@@ -1,5 +1,13 @@
+
+.nofren{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
 h1{
-    color: darkgreen;
+    color: rgb(13, 13, 13);
 }
 
 
@@ -27,7 +35,7 @@ section>img{
 }
 
 h6{
-    color: darkgreen;
+    color: rgb(10, 11, 10);
     font-style: normal;
     font-weight: 300;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
